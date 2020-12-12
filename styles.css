@@ -109,10 +109,12 @@ p{
 .hello-text{
     color: #40514E;  
 }
-
 .introduction{
     font-size: 2.5rem;
     font-family: sans-serif
+}
+.introduction-demo{
+    color: #9ddfd3;
 }
 .middle-container{
     margin-top: 50px;
