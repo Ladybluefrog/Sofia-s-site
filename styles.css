@@ -99,6 +99,7 @@ p{
     position: absolute;
     left: 200px;   
     bottom: 300px;
+    height: 150px;
 }
 .footer-link{
     color: #11999E;
@@ -119,7 +120,7 @@ p{
     margin-top: 50px;
 }
 .mountain{
-    height: ;
+    height: 500px;
 }
 .p{
     text-decoration: underline;
@@ -139,6 +140,7 @@ clear: both;
     position: absolute;
     right: 200px;
     top: 50px;
+    height: 150px;
     }
 .bottom-container{
     background-color: #66BFBF;
