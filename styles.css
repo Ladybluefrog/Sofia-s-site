@@ -1,0 +1,142 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: cursive;
+}
+h1{
+    color: #66BFBF;
+    font-size: 5.625rem; 
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    color:#66BFBF;
+    font-weight: normal;
+
+    
+}
+h3{
+    color:#11999E;
+}
+hr{
+    border-color: #bbbbbb;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: none;
+    width: 5%;
+    clear: both;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+a{
+    color: #11999E;
+}
+p{
+    line-height: 2;
+    color: #40514E;
+}
+/*************CLASS REFERENCE************/
+.btn{
+    background: #11999E;
+    background-image: -webkit-linear-gradient(top, #11999E, #66BFBF);
+    border-radius: 20px;
+    height: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+    font-family: "Sacramento" Arial;
+    width: 185px;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 13px;
+    box-shadow: 1px 1px 6px 0 #000000;
+    text-shadow: 0 0 3px #000000;
+    border: solid #11999E 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    margin: 20px;    
+    }
+.btn:hover{
+    background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
+    border-radius: 20px;
+    height: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+    font-family: "Sacramento" Arial;
+    width: 185px;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 13px;
+    box-shadow: 1px 1px 6px 0 #000000;
+    text-shadow: 0 0 3px #000000;
+    border: solid #11999E 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    margin: 20px;    
+}
+.code-img{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.code-img1{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.contact-me{
+    margin: 50px;
+}
+.contact-me-text{
+    font-weight: normal;
+    position: relative;
+}
+.copyright{
+    color: #EAF6F6;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 200px;   
+    bottom: 300px;
+}
+.footer-link{
+    color: #11999E;
+    margin: 50px;
+    }
+.hello-text{
+    color: #40514E;  
+}
+
+.introduction{
+    font-size: 2.5rem;
+    font-family: sans-serif
+}
+.middle-container{
+    margin-top: 50px;
+}
+.p{
+    text-decoration: underline;
+}
+.skill-row{
+width: 50%;
+margin: 100px auto;
+text-align: left;
+clear: both;
+}
+.top-container{
+    background-color:#EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 20px;
+  }
