@@ -99,6 +99,7 @@ p{
     position: absolute;
     left: 200px;   
     bottom: 300px;
+    width: 200px;
 }
 .footer-link{
     color: #11999E;
@@ -139,6 +140,7 @@ clear: both;
     position: absolute;
     right: 200px;
     top: 50px;
+    width: 200px;
 }
 .bottom-container{
     background-color: #66BFBF;
