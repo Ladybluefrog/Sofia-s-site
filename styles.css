@@ -17,6 +17,8 @@ h2{
 }
 h3{
     color:#11999E;
+    width: 50%;
+    margin: auto;
 }
 hr{
     border-color: #bbbbbb;
