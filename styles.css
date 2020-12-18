@@ -133,6 +133,7 @@ p{
 }
 .mountain{
     width: 50%;
+    margin: auto;
 }
 .p{
     text-decoration: underline;
