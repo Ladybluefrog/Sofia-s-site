@@ -35,6 +35,8 @@ hr{
 a{
     color: #11999E;
 }
+a:hover {
+    color: #EAF6F6;
 p{
     line-height: 2;
     color: #40514E;
@@ -108,6 +110,7 @@ p{
 .footer-link{
     color: #11999E;
     margin: 50px;
+    text-decoration: none;
     }
 .hello-text{
     color: #40514E;  
