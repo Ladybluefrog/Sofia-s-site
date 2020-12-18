@@ -38,6 +38,8 @@ a{
 a:hover {
     color: #EAF6F6;
 p{
+    width: 50%;
+    margin: auto;
     line-height: 2;
     color: #40514E;
 }
