@@ -5,9 +5,10 @@ body{
 }
 h1{
     color: #66BFBF;
-    font-size: 35%; 
+    font-size: 5.65rem; 
     margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
+    width: 35%;
 }
 
 h2{
